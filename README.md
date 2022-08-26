@@ -1,6 +1,6 @@
 # EWYL-mohamedrizwan
 knowledge about git
 mohamed rizwan 
-mechanical
+mechanical department
 20me019
 sri eshwar collage of engineering
