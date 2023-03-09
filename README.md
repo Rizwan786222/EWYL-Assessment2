@@ -1,4 +1,3 @@
 # EWYL-mohamedrizwan
 knowledge about git
-mohamed rizwan 
-mechanical departme
+3rr3r3
